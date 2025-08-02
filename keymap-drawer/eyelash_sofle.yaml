@@ -260,3 +260,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+combos:
+- p: [60, 56]
+  k: $$mdi:apple-keyboard-caps$$
+  l: [LAYER0]
