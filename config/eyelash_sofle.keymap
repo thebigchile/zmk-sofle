@@ -38,6 +38,16 @@
     behaviors {
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        caps {
+            bindings = <&kp CAPS>;
+            key-positions = <60 56>;
+            layers = <0>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
